@@ -1,3 +1,5 @@
+# Note: This thing is a bit wonky right now, but I haven't had time to fix it. I'll do that later. For now, don't download it.
+
 ## Text Manipulator
 
 This workflow simply changes the cases for selected text. Right now, it just abuses an applescript found on the web (check the readme in the workflow for the source) with a few tweaks. It needs improvements before it's released.
